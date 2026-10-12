@@ -1,0 +1,6 @@
+@QuadraticEquation_HostAddress = http://localhost:5004
+
+GET {{QuadraticEquation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
